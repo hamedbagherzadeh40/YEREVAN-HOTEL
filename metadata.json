@@ -1,0 +1,8 @@
+{
+  "name": "YERAVAN - AI Tourism Ecosystem",
+  "description": "The ultimate 3-language tourism platform for Yerevan, Armenia. Real photos, anti-scam guides, and AI-driven concierge services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
