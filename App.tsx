@@ -22,7 +22,7 @@ const App: React.FC = () => {
       <section id="hero" className="relative h-[90vh] flex items-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-       src="./test-yeravan-1.jpg"
+            src="test-yeravan-1.jpg" 
             alt="YERAVAN Real Exterior" 
             className="w-full h-full object-cover object-center brightness-[0.85] contrast-[1.05]"
           />
